@@ -4,7 +4,8 @@ Turn a simple Excel table into an animated map video with **Excel 3D Maps**, the
 
 Use it to introduce your company to investors, partners, new staff or clients: show how your business has grown across locations over time, using only Excel and PowerPoint.
 
-![Animated map of store growth across Australia](images/map-preview.png)
+<img width="1280" height="720" alt="map-preview" src="https://github.com/user-attachments/assets/787a6e49-334b-4f92-8059-7c8bf7323f89" />
+
 
 ---
 
